@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1366A0C623A94AE200305540 /* ErikStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1366A0C523A94AE200305540 /* ErikStoryboard.storyboard */; };
 		3F49ACFF23A9485C008A52BF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F49ACFE23A9485C008A52BF /* AppDelegate.swift */; };
 		3F49AD0123A9485C008A52BF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F49AD0023A9485C008A52BF /* ViewController.swift */; };
 		3F49AD0423A9485C008A52BF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F49AD0223A9485C008A52BF /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1366A0C523A94AE200305540 /* ErikStoryboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = ErikStoryboard.storyboard; sourceTree = "<group>"; };
 		3F49ACFB23A9485C008A52BF /* ManyStoryBoards.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ManyStoryBoards.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F49ACFE23A9485C008A52BF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3F49AD0023A9485C008A52BF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				3F49ACFE23A9485C008A52BF /* AppDelegate.swift */,
 				3F49AD0023A9485C008A52BF /* ViewController.swift */,
 				3F49AD0223A9485C008A52BF /* Main.storyboard */,
+				1366A0C523A94AE200305540 /* ErikStoryboard.storyboard */,
 				3F49AD1023A9488D008A52BF /* EmmaStoryboard.storyboard */,
 				3F49AD0523A9485D008A52BF /* Assets.xcassets */,
 				3F49AD0723A9485D008A52BF /* LaunchScreen.storyboard */,
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1366A0C623A94AE200305540 /* ErikStoryboard.storyboard in Resources */,
 				3F49AD0923A9485D008A52BF /* LaunchScreen.storyboard in Resources */,
 				3F49AD1123A9488D008A52BF /* EmmaStoryboard.storyboard in Resources */,
 				3F49AD0623A9485D008A52BF /* Assets.xcassets in Resources */,
